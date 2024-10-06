@@ -1,5 +1,7 @@
 # 算法部门新生入门指南
 
+算法部门是网络特警队的重要组成部分，主要负责算法设计与编程相关活动。部门成员以算法设计与编程为核心研究领域，积极开展计算机编程相关活动，为校内同学提供学习计算机编程的优质资源。
+
 ## 概述
 
 ### 0.前言（学算法的目的）
@@ -86,10 +88,10 @@ PS:相比于隔壁非常多比赛的攻防/取证算法确实比赛没那么多�
 
 除了使用devcpp以外，还可以使用VSCode/VS/CodeBlocks/Clion等IDE（IDE是什么自行百度），这些IDE的优点在于可以调试，但是缺点在于占用内存较大，配置较为复杂，优点是调试功能较为完善。
 
-VSCode下载地址：https://code.visualstudio.com/
-VS下载地址：https://visualstudio.microsoft.com/zh-hans/vs/
-CodeBlocks下载地址：http://www.codeblocks.org/downloads/26
-Clion下载地址：https://www.jetbrains.com/clion/download/
+- VSCode下载地址：https://code.visualstudio.com/
+- VS下载地址：https://visualstudio.microsoft.com/zh-hans/vs/
+- CodeBlocks下载地址：http://www.codeblocks.org/downloads/26
+- Clion下载地址：https://www.jetbrains.com/clion/download/
 
 
 C/C++环境配置教程（建议多多百度，这里只给一些例子）：
