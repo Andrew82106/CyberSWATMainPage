@@ -7,7 +7,7 @@ sudo docker build -f Dockerfile -t cyberswatwebpage .
 ```
 then
 ```bash
-docker run -dp 3000:3000 --name=docsify -v $(pwd):/docs cyberswatwebpage
+sudo docker run -dp 3000:3000 --name=docsify -v $(pwd):/docs cyberswatwebpage
 ```
 
 # debug the website
