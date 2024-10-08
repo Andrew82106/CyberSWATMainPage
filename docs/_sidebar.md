@@ -7,6 +7,6 @@
 - - - [Web方向入门指南](begin/att_web_beginner)
 - - - [Misc方向入门指南](begin/att_misc_beginner)
 - - [算法部门入门指南](begin/alo_beginner)
-- - [电子取证部门入门指南](begin/for_beginner)
+- - [电子取证部门入门指南](begin/取证笔记/电子数据取证入门指南.md)
 - - [警务大数据部门入门指南](begin/dat_beginner)
 - - [建模部门入门指南](begin/mat_beginner)
